@@ -1,0 +1,28 @@
+								Instructions!!!
+
+                                                Press UP/DOWN Keys --> To Navigate The Sheet
+                                                Press I --> To Input The Value in a Cell
+                                                Press B --> To Select Starting Cell For Copy/Cut/Sum etc
+                                                Press C --> To Select Ending Cell & Call Copy()
+                                                Press X --> To Select Ending Cell & Call Cut()
+                                                Press V --> To Paste The Copy/Cut Data
+                                                Press Ctrl+A --> To Add Row Above Current Cell
+                                                Press Ctrl+B --> To Add Row Below Current Cell
+                                                Press Ctrl+R --> To Add Column Right of Current Cell
+                                                Press Ctrl+L --> To Add Column Left of Current Cell
+                                                Press Shift+R --> To Add a Cell & Shift Current Cell To The Right
+                                                Press Shift+D --> To Add a Cell & Shift Current Cell To The Down
+                                                Press Shift+L --> To Delete a Cell & Shift Current Cell To The Left
+                                                Press Shift+U --> To Delete a Cell & Shift Current Cell To The Up
+                                                Press Alt+R --> To Delete a Row
+                                                Press Alt+C --> To Delete a Column
+                                                Press Alt+R --> To Delete a Row
+                                                Press Alt+C --> To Delete a Column
+                                                Press Alt+S --> To Get The Sum of Your Desired Data
+                                                Press Alt+A --> To Get The Average of Your Desired Data
+                                                Press Alt+M --> To Get The Maximum of Your Desired Data
+                                                Press Alt+N --> To Get The Minimum of Your Desired Data
+                                                Press Alt+C --> To Get The Count of Your Desired Data
+                                                Press Ctrl+S --> To Save The File
+                                                Press Ctrl+W --> To Save The File & Exit
+                                                Press Escape --> To Exit
